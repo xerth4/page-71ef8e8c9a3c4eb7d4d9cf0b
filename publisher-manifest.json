@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "4b4b5350335002dd71ffa328",
+  "owner": "xerth4",
+  "repo": "page-71ef8e8c9a3c4eb7d4d9cf0b",
+  "title": "GPT中转",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "71ef8e8c9a3c4eb7d4d9cf0b",
+      "a": "GPT中转",
+      "b": "",
+      "entity": "GPT中转",
+      "brand": "GPT中转",
+      "separator": "",
+      "path": "index.html",
+      "hash": "61bbc470781068fe3d7367128f3a732fedbdc88ebc132e7cec528802a7b4e8a5",
+      "content": {
+        "keyword1": "GPT中转",
+        "keyword2": "",
+        "primary_entity": "GPT中转",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "GPT中转提供专业的VPN网络加速服务，帮助您轻松解锁流媒体、优化游戏体验。支持基础版、旗舰版和团队版，享受高流量和专属支持。立即选择适合您的计划，下载官方客户端，畅享高速上网。",
+          "AI_DESCRIPTION": "GPT中转提供专业的VPN网络加速服务，帮助您轻松解锁流媒体、优化游戏体验。支持基础版、旗舰版和团队版，享受高流量和专属支持。立即选择适合您的计划，下载官方客户端，畅享高速上网。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --warm-white: #f8f1e3;\n            --coral: #ff6b6b;\n            --coral-light: #ff8a7a;\n            --dark: #2c2c2c;\n            --text: #333;\n        }\n        * { margin:0; padding:0; box-sizing:border-box; }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;\n            background: var(--warm-white);\n            color: var(--text);\n            line-height: 1.6;\n            font-size: 16px;\n            padding: 0 16px;\n            max-width: 1200px;\n            margin: 0 auto;\n        }\n        @media (min-width: 768px) {\n            body { padding: 0 24px; }\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.08);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        .nav {\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            padding: 16px 0;\n        }\n        .logo {\n            font-size: 28px;\n            font-weight: 700;\n            color: var(--coral);\n        }\n        .btn {\n            background: var(--coral);\n            color: white;\n            border: none;\n            padding: 10px 24px;\n            border-radius: 6px;\n            font-size: 15px;\n            cursor: pointer;\n            transition: all 0.3s;\n        }\n        .btn:hover {\n            background: var(--coral-light);\n            transform: translateY(-1px);\n        }\n        h1 {\n            font-size: 2.2rem;\n            color: var(--dark);\n            margin: 20px 0 12px;\n        }\n        h2 {\n            font-size: 1.5rem;\n            margin: 32px 0 16px;\n            color: var(--dark);\n        }\n        .intro {\n            max-width: 800px;\n            margin: 0 auto 40px;\n            font-size: 1.05rem;\n            text-align: center;\n        }\n        .scenarios {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 20px;\n            margin: 0 auto 40px;\n            max-width: 1100px;\n        }\n        .scenario-card {\n            background: white;\n            border-radius: 12px;\n            padding: 24px;\n            box-shadow: 0 4px 15px rgba(255,107,107,0.08);\n            transition: transform 0.3s;\n        }\n        .scenario-card:hover {\n            transform: translateY(-6px);\n        }\n        .scenario-card h3 {\n            margin-bottom: 12px;\n            color: var(--coral);\n        }\n        .plans {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));\n            gap: 24px;\n            margin: 0 auto 40px;\n            max-width: 1100px;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            overflow: hidden;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.06);\n            transition: all 0.3s;\n        }\n        .plan-card.featured {\n            border: 3px solid var(--coral);\n            transform: scale(1.03);\n        }\n        .plan-header {\n            padding: 20px 24px 12px;\n            text-align: center;\n        }\n        .plan-name {\n            font-size: 1.35rem;\n            font-weight: 600;\n            color: var(--dark);\n        }\n        .plan-price {\n            font-size: 1.8rem;\n            font-weight: 700;\n            color: var(--coral);\n            margin: 8px 0;\n        }\n        .plan-annual {\n            font-size: 0.95rem;\n            color: #666;\n        }\n        .plan-features {\n            padding: 0 24px 24px;\n        }\n        .plan-features ul {\n            list-style: none;\n        }\n        .plan-features li {\n            padding: 8px 0;\n            font-size: 15px;\n            border-bottom: 1px solid #eee;\n        }\n        .plan-features li:last-child {\n            border-bottom: none;\n        }\n        .download-btn {\n            width: 100%;\n            padding: 14px;\n            font-size: 1.1rem;\n            margin-top: 12px;\n        }\n        .faq {\n            max-width: 900px;\n            margin: 0 auto 60px;\n        }\n        details {\n            background: white;\n            margin: 12px 0;\n            border-radius: 10px;\n            overflow: hidden;\n            box-shadow: 0 2px 6px rgba(0,0,0,0.05);\n        }\n        summary {\n            padding: 18px 24px;\n            font-weight: 600;\n            cursor: pointer;\n            list-style: none;\n            position: relative;\n        }\n        summary::-webkit-details-marker { display: none; }\n        summary:after {\n            content: \"▶\";\n            float: right;\n            transition: transform 0.3s;\n        }\n        details[open] summary:after {\n            transform: rotate(90deg);\n        }\n        .answer {\n            padding: 0 24px 24px;\n            color: #555;\n        }\n        footer {\n            text-align: center;\n            padding: 40px 20px 20px;\n            font-size: 0.9rem;\n            color: #777;\n        }\n        .section {\n            padding: 40px 0;\n        }\n    </style>\n\n\n    <header>\n        <nav class=\"nav\">\n            <div class=\"logo\">GPT中转</div>\n            <a href=\"#plans\" class=\"btn\">立即选择计划</a>\n        </nav>\n    </header>\n\n    <main>\n        <h1>GPT中转</h1>\n        <p class=\"intro\">GPT中转是专业VPN网络加速器与机场订阅平台，专注流媒体解锁、游戏线路优化与高速客户端体验。选择适合您的订阅计划，享受每月高流量极速服务。</p>\n\n        <div class=\"scenarios\">\n            <div class=\"scenario-card\">\n                <h3>流媒体解锁</h3>\n                <p>轻松解锁Netflix、Disney+、YouTube等全球平台，畅享高清内容。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>游戏加速</h3>\n                <p>IPLC专线提供低延迟游戏加速，支持在线竞技与多人游戏。</p>\n            </div>\n            <div class=\"scenario-card\">\n                <h3>日常上网</h3>\n                <p>稳定节点池满足基础访问需求，保护隐私并提升速度。</p>\n        </div>\n        </div>\n\n        <div class=\"section\">\n            <h2>客户端选择与下载</h2>\n            <div class=\"plans\" id=\"plans\">\n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">基础版</div>\n                        <div class=\"plan-price\">¥15/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥150/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 100GB 极速流量</li>\n                            <li>支持 3 台设备同时在线</li>\n                            <li>解锁基础流媒体</li>\n                            <li>普通线路节点池</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn download-btn\">立即下载基础版</a>\n                    </div>\n                </div>\n\n                <div class=\"plan-card featured\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">旗舰版</div>\n                        <div class=\"plan-price\">¥35/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥350/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 300GB 极速流量</li>\n                            <li>支持 5 台设备同时在线</li>\n                            <li>全节点原生流媒体解锁</li>\n                            <li>IPLC 专线游戏加速优化</li>\n                            <li>7x24 优先工单支持</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn download-btn\">立即下载旗舰版</a>\n                    </div>\n                </div>\n\n                <div class=\"plan-card\">\n                    <div class=\"plan-header\">\n                        <div class=\"plan-name\">团队版</div>\n                        <div class=\"plan-price\">¥85/月</div>\n                        <div class=\"plan-annual\">按年付仅需 ¥850/年</div>\n                    </div>\n                    <div class=\"plan-features\">\n                        <ul>\n                            <li>每月 1000GB 极速流量</li>\n                            <li>支持 20 台设备同时在线</li>\n                            <li>VIP 专属高带宽节点</li>\n                            <li>支持企业定制路由</li>\n                            <li>专属客户经理服务</li>\n                        </ul>\n                        <a href=\"#\" class=\"btn download-btn\">立即下载团队版</a>\n                    </div>\n                </div>\n            </div>\n        </div>\n\n        <div class=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <details>\n                <summary>什么是GPT中转？</summary>\n                <div class=\"answer\">GPT中转是一款专业的VPN网络加速与机场订阅服务，提供稳定线路、流媒体解锁和游戏优化功能，帮助用户突破地域限制并提升上网速度。</div>\n            </details>\n            <details>\n                <summary>如何选择适合的计划？</summary>\n                <div class=\"answer\">根据您的使用需求选择：基础版适合个人日常使用，旗舰版提供全面解锁和游戏加速，团队版适合需要高流量和专属支持的企业或团队。</div>\n            </details>\n            <details>\n                <summary>流量如何计算？</summary>\n                <div class=\"answer\">每月流量按日结算，超出部分将自动限速。年付用户可获得更优惠的总价，建议根据家庭或团队人数合理规划。</div>\n            </details>\n            <details>\n                <summary>支持哪些设备？</summary>\n                <div class=\"answer\">支持Windows、macOS、iOS、Android和路由器等多平台客户端，3台或20台设备同时在线（视版本而定）。</div>\n            </details>\n            <details>\n                <summary>如何联系客服？</summary>\n                <div class=\"answer\">旗舰版和团队版用户可享受7x24优先工单支持，通过客户端内联客服或官网提交工单获得快速回复。</div>\n            </details>\n        </div>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n    <footer>\n        © 2025 GPT中转 网络加速平台 | 官方下载入口 | 机场订阅服务\n    </footer>\n\n",
+          "hash": "b356ac80bf6242733b9c7599be05fdf0a180eacd3209fde10c4933c694e5643e",
+          "seo": {
+            "title": "GPT中转 - 高效VPN加速器与机场订阅客户端下载",
+            "keywords": "GPT中转, VPN加速, 机场订阅, 客户端下载, 网络加速器, 流媒体解锁, VPN节点",
+            "description": "GPT中转提供专业的VPN网络加速服务，帮助您轻松解锁流媒体、优化游戏体验。支持基础版、旗舰版和团队版，享受高流量和专属支持。立即选择适合您的计划，下载官方客户端，畅享高速上网。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "miaotk.cn",
+    "host": "p-6b9d81c0e3.miaotk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "44e33e7918ec85508d91d23f8874ac614d5d1bd9041969ff2589eb63245be2f1",
+    "sitemap.xml": "f0501b81d925632f0882ed29c84cf90c0c7f8b29653e25ba88aade87e6705691",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6bd49b937bdc03c09fd70326b42f11eb779bac86d66936d20e856673efbaf6ed",
+    "robots.txt": "730782df0c0c420756a8c48f02b855220b5d34adb6172fd674e51ef2d0080041",
+    "55d37ded7154812ad19e6ddc6a5c881b.txt": "c720de904770b983a4bb3cecbe959826b0ec2e6f5bc80539742e45585e74f0d7"
+  },
+  "revision": "17ee03b9c7082bf9f0880bda096915896d9b0511fecba166d0fd460d30683f8a"
+}
